@@ -1,6 +1,6 @@
 ## about us
 
-Welcome to the world of GSG-Miners, a dynamic team of young innovators and technology enthusiasts from the GSG Freiberg Gymnasium. With a passion for microelectronics and programming, we embark on exciting journeys of autonomous robot development using modern technology, particularly Arduino and Raspberry Pi.
+Welcome to the world of GSG-Miners, a dynamic team of young innovators and technology enthusiasts from the GSG Freiberg grammar school. With a passion for microelectronics and programming, we embark on exciting journeys of autonomous robot development using modern technology, particularly Arduino and Raspberry Pi.
 
 Our team consists of four talented and motivated members, all of whom are currently in 10th grade at GSG Freiberg. In addition to our dedicated team, we are fortunate to have the guidance and support of two experienced coaches who play a crucial role in advancing our skills and supporting our pursuit of excellence.
 
