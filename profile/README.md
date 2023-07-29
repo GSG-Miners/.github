@@ -1,4 +1,6 @@
-<img src="/images/banner_light.png" width="1280" height="auto" alt="Banner that says: 'ZEN - Zone of Engineering Newcomers'">
+<div align="center">
+  <img src="/images/banner_dark.png" width="1280" height="auto" alt="Banner that says: 'ZEN - Zone of Engineering Newcomers'">
+</div>
 
 ### ❓ - About Us
 Welcome to the **Zone of Engineering Newcomers**, a dynamic team of young innovators and technology enthusiasts from the GSG Freiberg grammar school. With a passion for microelectronics and programming, we embark on exciting journeys of autonomous robot development using modern technology, particularly Arduino and Raspberry Pi.
