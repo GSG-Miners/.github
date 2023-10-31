@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="" width="1280" height="auto" alt="Banner that says: 'ZEN - Zone of Engineering Newcomers'">
+  <img src="/images/banner_dark_V2.png" width="1280" height="auto" alt="Banner that says: 'ZEN - Zone of Engineering Newcomers'">
 </div>
 
 ### ❓ - About Us
