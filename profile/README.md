@@ -2,15 +2,18 @@
   <img src="/images/banner_dark_V2.png" width="1280" height="auto" alt="Banner that says: 'ZEN - Zone of Engineering Newcomers'">
 </div>
 
-### ❓ About Us
-Welcome to the **Zone of Engineering Newcomers**, a dynamic team of young innovators and technology enthusiasts from the GSG Freiberg grammar school. With a passion for microelectronics and programming, we embark on exciting journeys of autonomous robot development using modern technology, particularly Arduino and Raspberry Pi.
+### Introduction
 
-### 👥 Team Structure
-Our team consists of four talented and motivated members, all of whom are currently in 10th grade at GSG Freiberg. In addition to our dedicated team, we are fortunate to have the guidance and support of two experienced coaches who play a crucial role in advancing our skills and supporting our pursuit of excellence.
+The Zone of Engineering Newcomers represents a cohort of exceptional young scholars from the Geschwister-Scholl-Gymnasium Freiberg, demonstrating remarkable aptitude in the fields of microelectronics and computer science. This group has undertaken sophisticated projects in autonomous robotics, utilizing cutting-edge technologies such as Arduino and Raspberry Pi platforms.
 
-### 🏆 Achievements
-After honing our expertise over the course of a year in the field of microelectronics and programming, we are proud of our amazing achievements in a prestigious competition.
-In 2023, we reached an incredible milestone by taking third place in the Regional Finals of the World Robot Olympiad. The competition was tough, but our passion and determination led us to success. This challenge not only validated our knowledge and skills, but also motivated us to push our limits further.
+### Team Composition
 
-### 👁️ Vision
-As we continue to explore new horizons and expand our knowledge, our vision remains clear - to make new connections with other enthusiastic software developers and make it to the national or rather international finals of the World Robot Olympiad in 2024.
+The team comprises three academically distinguished eleventh-grade students from the Geschwister-Scholl-Gymnasium Freiberg. Their endeavors are supported and enhanced by the mentorship of an experienced faculty member, whose guidance has been instrumental in fostering the team's intellectual growth and technical proficiency.
+
+### Accomplishments
+
+Following two intensive years of specialized study in microelectronics and programming, the team has achieved notable recognition in highly competitive academic forums. In 2024, they secured first place in the Regional Finals and fifth place in the National Finals of the World Robot Olympiad. These accolades serve as a testament to their academic rigor, technical acumen, and collaborative efficacy, while also providing a foundation for continued scholarly pursuits.
+
+### Future Aspirations
+
+The team maintains a clear trajectory for future development, emphasizing the cultivation of professional networks within the software development community and aspiring to participate in the international World Robot Olympiad in 2025. Their commitment to innovation, collaborative research, and academic excellence positions them to make significant contributions to the field of robotics and related disciplines.
